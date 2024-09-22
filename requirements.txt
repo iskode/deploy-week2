@@ -1,5 +1,5 @@
 spacy==3.7.6
-torch==2.0
+torch==2.0.1+cu117
 fastai==2.7.12
 fastcore==1.5.29
 streamlit==1.38.0
