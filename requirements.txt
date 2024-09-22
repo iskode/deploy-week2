@@ -1,3 +1,4 @@
+pip==24.2
 spacy==3.7.6
 torch==2.0.1+cu117
 fastai==2.7.12
